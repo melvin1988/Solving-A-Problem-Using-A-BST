@@ -1,4 +1,4 @@
-# Solving-A-Problem-Using-A-BST
+# Using-A-BST-Written-In-C-Plus-Plus
 Design an object-oriented solution and implement the solution in C++ to solve the problem described below.
 
 Historical data for solar radiation and wind speeds was obtained (along with other sensor information) from http://wwwmet.murdoch.edu.au/downloads1.  Weather data in the format we are after has been available from the middle of 1998 till the present day. Data is logged at intervals of 10 minutes. Sample data in comma-separated value text files is made available for this assignment. Each file contains a year’s worth of data for multiple sensors. Data for each date-time recording are on separate rows. Within each row, the value for each sensor is separated by a comma. The sensor codes are found at http://wwwmet.murdoch.edu.au/sensors.
